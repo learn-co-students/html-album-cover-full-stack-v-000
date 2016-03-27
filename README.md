@@ -13,4 +13,4 @@ This challenge asks that you recreate the album cover shown in the MOCKUP.jpg im
 7. Please <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run.
 8. Type `learn` command from Terminal to run local tests.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
+<a href='https://learn.co/lessons/html-album-cover' data-visibility='hidden'>View this lesson on Learn.co</a>
